@@ -1,0 +1,12 @@
+{
+    "marvel": {
+      "public_key": "94e215fa4b30ccbafec628e78e76480a",
+      "private_key": "22fff8f5a2cbf6baea0743d3168ab0a735bf091b"
+    },
+    "bigquery": {
+      "csv_file_path": "marvel_characters.csv",
+      "project_id": "marvel-project-439216",
+      "dataset_id": "marvel_project",
+      "table_id": "characters_data"
+  }
+  }
